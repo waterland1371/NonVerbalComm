@@ -1,0 +1,11 @@
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\bin\Debug\NonVerbalComm.exe.config
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\bin\Debug\NonVerbalComm.exe
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\bin\Debug\NonVerbalComm.pdb
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\obj\Debug\NonVerbalComm.csprojResolveAssemblyReference.cache
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\obj\Debug\NonVerbalComm.EmailSent.resources
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\obj\Debug\NonVerbalComm.MainForm.resources
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\obj\Debug\NonVerbalComm.PopupWindow.resources
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\obj\Debug\NonVerbalComm.Properties.Resources.resources
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\obj\Debug\NonVerbalComm.csproj.GenerateResource.Cache
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\obj\Debug\NonVerbalComm.exe
+E:\Users\Alex\Documents\Visual Studio 2015\Projects\NonVerbalComm\NonVerbalComm\obj\Debug\NonVerbalComm.pdb
